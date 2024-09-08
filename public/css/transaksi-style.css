@@ -1,0 +1,22 @@
+*{
+    font-family: poppins;
+    margin: 0px 0px;
+}
+
+.judul{
+    width: 100%;
+    height: 200px;
+    background-color: cornflowerblue;
+}
+
+.judul h1{
+    color: white;
+    text-align: center;
+    padding: 60px;
+    font-size: 45px;
+}
+
+.item{
+    font-size: 50px;
+    margin-top: 20px;
+}
